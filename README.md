@@ -1,0 +1,2 @@
+# vkdigest
+VK news digest
